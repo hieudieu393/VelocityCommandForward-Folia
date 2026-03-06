@@ -1,0 +1,13 @@
+name: VelocityCommandForward
+version: '1.2.0-folia'
+main: me.itstautvydas.velcmdforw.VelocityCommandForward
+api-version: '1.20.6'
+folia-supported: true
+prefix: VelocityCommandForward
+authors: [ItsTauTvyDas]
+website: https://itstautvydas.me
+permissions:
+  velocitycommandforward.send:
+    default: true
+  velocitycommandforward.admin:
+    default: op
